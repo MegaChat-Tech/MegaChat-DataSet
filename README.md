@@ -15,7 +15,7 @@
 - 🤖 **Fully Synthetic Generation**: Multi-agent LLM architecture with no manual annotation required
 - 👥 **Persona-Based Questions**: Realistic user queries reflecting diverse customer profiles
 - 📊 **Multi-Domain Coverage**: 48 Telegram channels spanning a wide range of categories
-- ✅ **Ground Truth Answers**: High-quality responses evaluated by GPT-5 as judge
+- ✅ **Ground Truth Answers**: High-quality responses evaluated by GPT-5.1 as judge
 
 ### Statistics
 
@@ -69,7 +69,7 @@ Two parallel answer generation approaches:
 - LLM-SLM collaboration for efficiency
 
 **Ground Truth Selection:**
-- GPT-5 as judge evaluating all candidate answers
+- GPT-5.1 as judge evaluating all candidate answers
 - Ranking based on: factual correctness, persona alignment, emotional sensitivity, tone preference, interaction style, content preferences
 
 ### Sample Channels
