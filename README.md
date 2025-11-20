@@ -99,7 +99,7 @@ Contains the original posts collected from 48 Telegram shopping channels.
 #### 2. Question-Answer Pairs
 Contains generated questions with ground truth answers and metadata.
 
-**[📦 Download Q&A Dataset](LINK_TO_BE_ADDED)**
+**[📦 Download Q&A Dataset](https://drive.google.com/file/d/1eR_GiXIVQodEZWDkTo48IYXUME6uv2m9/view?usp=sharing)**
 
 
 
