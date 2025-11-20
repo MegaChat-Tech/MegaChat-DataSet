@@ -93,7 +93,7 @@ The MegaChat dataset is released in two parts:
 #### 1. Telegram Channel Posts (Raw Data)
 Contains the original posts collected from 48 Telegram shopping channels.
 
-**[📦 Download Channel Posts Dataset](LINK_TO_BE_ADDED)**
+**[📦 Download Channel Posts Dataset](https://drive.google.com/file/d/122c0JrHj_02TxuA9Az6P8Q5wTxtoLb6r)**
 
 
 #### 2. Question-Answer Pairs
@@ -181,13 +181,6 @@ For full license terms, see: https://creativecommons.org/licenses/by/4.0/
 
 ---
 
-## 🌟 Star History
-
-If you find this dataset useful, please consider giving it a star ⭐!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/megachat-dataset&type=Date)](https://star-history.com/#YOUR_USERNAME/megachat-dataset&Date)
-
----
 
 <p align="center">
   Made with ❤️ for the Persian NLP Community
