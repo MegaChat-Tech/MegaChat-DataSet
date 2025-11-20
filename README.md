@@ -126,12 +126,13 @@ Contains generated questions with ground truth answers and metadata.
 If you use the MegaChat dataset in your research, please cite our paper:
 
 ```bibtex
-@article{megachat2025,
-  title={MegaChat: A Synthetic Q\&A Dataset for High-Quality Sales Chatbot Evaluation},
-  author={[Your Name] and [Co-authors]},
+@article{MegaChat-DataSet,
+  title={MegaChat: A Synthetic Persian Q\&A Dataset for High-Quality Sales Chatbot Evaluation},
+  author={Rahmani, Mahdi and Saffari, AmirHossein and Rahmani, Reyhane},
   journal={arXiv preprint arXiv:XXXX.XXXXX},
   year={2025},
-  url={https://arxiv.org/abs/XXXX.XXXXX}
+  url={https://arxiv.org/abs/XXXX.XXXXX},
+  organization={Eastern Smart Innovators, Agentic AI Research Department}
 }
 ```
 
