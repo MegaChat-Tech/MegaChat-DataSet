@@ -138,6 +138,8 @@ If you use the MegaChat dataset in your research, please cite our paper:
 
 **Paper:** [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX) *(Link to be updated)*
 
+**Paper:** [researchgate.net](https://www.researchgate.net/publication/398084913_MegaChat_A_Synthetic_Persian_QA_Dataset_for_High-Quality_Sales_Chatbot_Evaluation)
+
 
 
 ---
