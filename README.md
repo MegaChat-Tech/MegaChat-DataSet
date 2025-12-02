@@ -129,14 +129,14 @@ If you use the MegaChat dataset in your research, please cite our paper:
 @article{MegaChat-DataSet,
   title={MegaChat: A Synthetic Persian Q\&A Dataset for High-Quality Sales Chatbot Evaluation},
   author={Rahmani, Mahdi and Saffari, AmirHossein and Rahmani, Reyhane},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2511.23397},
   year={2025},
-  url={https://arxiv.org/abs/XXXX.XXXXX},
+  url={https://arxiv.org/abs/2511.23397},
   organization={Eastern Smart Innovators, Agentic AI Research Department}
 }
 ```
 
-**Paper:** [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX) *(Link to be updated)*
+**Paper:** [arXiv:2511.23397](https://arxiv.org/abs/2511.23397)
 
 **Paper:** [researchgate.net](https://www.researchgate.net/publication/398084913_MegaChat_A_Synthetic_Persian_QA_Dataset_for_High-Quality_Sales_Chatbot_Evaluation)
 
